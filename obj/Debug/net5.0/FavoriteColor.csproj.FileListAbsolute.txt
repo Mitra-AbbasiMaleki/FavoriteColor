@@ -1,0 +1,16 @@
+E:\dotnet_Practice\FavoriteColor\bin\Debug\net5.0\FavoriteColor.exe
+E:\dotnet_Practice\FavoriteColor\bin\Debug\net5.0\FavoriteColor.deps.json
+E:\dotnet_Practice\FavoriteColor\bin\Debug\net5.0\FavoriteColor.runtimeconfig.json
+E:\dotnet_Practice\FavoriteColor\bin\Debug\net5.0\FavoriteColor.runtimeconfig.dev.json
+E:\dotnet_Practice\FavoriteColor\bin\Debug\net5.0\FavoriteColor.dll
+E:\dotnet_Practice\FavoriteColor\bin\Debug\net5.0\ref\FavoriteColor.dll
+E:\dotnet_Practice\FavoriteColor\bin\Debug\net5.0\FavoriteColor.pdb
+E:\dotnet_Practice\FavoriteColor\obj\Debug\net5.0\FavoriteColor.csproj.AssemblyReference.cache
+E:\dotnet_Practice\FavoriteColor\obj\Debug\net5.0\FavoriteColor.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet_Practice\FavoriteColor\obj\Debug\net5.0\FavoriteColor.AssemblyInfoInputs.cache
+E:\dotnet_Practice\FavoriteColor\obj\Debug\net5.0\FavoriteColor.AssemblyInfo.cs
+E:\dotnet_Practice\FavoriteColor\obj\Debug\net5.0\FavoriteColor.csproj.CoreCompileInputs.cache
+E:\dotnet_Practice\FavoriteColor\obj\Debug\net5.0\FavoriteColor.dll
+E:\dotnet_Practice\FavoriteColor\obj\Debug\net5.0\ref\FavoriteColor.dll
+E:\dotnet_Practice\FavoriteColor\obj\Debug\net5.0\FavoriteColor.pdb
+E:\dotnet_Practice\FavoriteColor\obj\Debug\net5.0\FavoriteColor.genruntimeconfig.cache
