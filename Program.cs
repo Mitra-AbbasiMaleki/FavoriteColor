@@ -54,6 +54,7 @@ namespace color
         }
         static bool IsExit(string str)
         {
+            str=str.ToLower();
             if (str == "e" || str == "exit")
                 return true;
             else
@@ -95,13 +96,13 @@ namespace color
                     color = "Orange";
                     break;
                 case "4":
-                    color = "red";
+                    color = "Red";
                     break;
                 case "5":
-                    color = "blue";
+                    color = "Blue";
                     break;
                 case "6":
-                    color = "green";
+                    color = "Green";
                     break;
                 case "7":
                     color = "Brown";
